@@ -18,12 +18,12 @@
 </div><br/>
 
 ## 👽 About Me 
-- 🔭 Working as full-stack developer
-- 🌱 Studying Vue 3
-- 📫 Contact me: vinicius01012@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: minha meta é ser o dev mais shapado do mundo, se não do Brasil 😂💪
-- 🤔 Freelancer tips are welcome!!
+<h4>🔭 Working as full-stack developer</h4>
+<h4>🌱 Studying Vue 3</h4>
+<h4>📫 Contact me: vinicius01012@gmail.com</h4>
+<h4>😄 Pronouns: he/him</h4>
+<h4>⚡ Fun fact: minha meta é ser o dev mais shapado do mundo, se não do Brasil 😂💪</h4>
+<h4>🤔 Freelancer tips are welcome!!</h4>
 <br/>
 
 ## 🤡 Social Media 
