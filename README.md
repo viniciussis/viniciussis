@@ -35,7 +35,7 @@ I'm student of System Information, beginner full-stack developer, I have 21 year
   <a href="https://twitter.com/_viniciussis"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 </div>
 
-## Enjoy!!
+## 🤖 Enjoy!!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciussis/viniciussis/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciussis/viniciussis/output/github-contribution-grid-snake.svg">
