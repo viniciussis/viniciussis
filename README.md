@@ -14,7 +14,7 @@
   <h4>Database</h4>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
   <h4>Tools</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,postman" />
 </div><br/>
 
 ## 👽 About Me 
