@@ -10,11 +10,11 @@
 ## 🎃 Stack 
 <div>
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,vue,typescript,scss,python,javascript,java,react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs,vue,typescript,scss,python,javascript,java,react,html,css,tailwind,styledcomponents" />
   <h4>Database</h4>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
   <h4>Tools</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,github,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,postman,vercel" />
 </div><br/>
 
 ## 👽 About Me 
