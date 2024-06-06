@@ -9,20 +9,22 @@
 
 ## 🎃 Stack 
 <div>
-  <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,vue,typescript,scss,python,javascript,java,react,html,css,tailwind,styledcomponents,golang" />
+  <h4>Languages & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs,vue,react,javascript,golang,python,java,html,css" />
   <h4>Database</h4>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
   <h4>Tools</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,github,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,postman,vercel,docker" />
+  <h4>Other Skills</h4>
+  <img src="https://skillicons.dev/icons?i=vite,jest,vitest,redux,scss,tailwind,styledcomponents" />
 </div><br/>
 
 ## 👽 About Me 
 <h4>🔭 Working as full-stack developer</h4>
-<h4>🌱 Studying Vue 3</h4>
+<h4>🌱 Studying Jest/Vistest + RTL</h4>
 <h4>📫 Contact me: vinicius01012@gmail.com</h4>
 <h4>😄 Pronouns: he/him</h4>
-<h4>⚡ Fun fact: minha meta é ser o dev mais shapado do mundo, se não do Brasil 😂💪</h4>
+<h4>⚡ Fun fact: strongest nerd in the world! 😂💪</h4>
 <h4>🤔 Freelancer tips are welcome!!</h4>
 <br/>
 
