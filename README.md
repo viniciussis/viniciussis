@@ -1,5 +1,5 @@
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vinicius+Santos!;Be+Welcome!👻" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vinicius+S.+Santos!;Be+Welcome!👻" />
 </h1>
 
 <h3>I'm full-stack developer from Brazil, I'm 22 years old and I'm open to new opportunities.</h3>
