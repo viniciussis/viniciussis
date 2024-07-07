@@ -21,7 +21,7 @@
 
 ## 👽 About Me 
 <h4>🔭 Working as full-stack developer</h4>
-<h4>🌱 Studying Jest/Vistest + RTL</h4>
+<h4>🌱 Studying Nest, Prisma, Vue and Quasar</h4>
 <h4>📫 Contact me: vinicius01012@gmail.com</h4>
 <h4>😄 Pronouns: he/him</h4>
 <h4>⚡ Fun fact: strongest nerd in the world! 😂💪</h4>
