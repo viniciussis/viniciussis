@@ -16,7 +16,7 @@
   <h4>Tools</h4>
   <img src="https://skillicons.dev/icons?i=vscode,github,postman,vercel,docker" />
   <h4>Other Skills</h4>
-  <img src="https://skillicons.dev/icons?i=vite,jest,vitest,redux,scss,tailwind,styledcomponents" />
+  <img src="https://skillicons.dev/icons?i=vite,jest,vitest,prisma,redux,scss,tailwind,styledcomponents" />
 </div><br/>
 
 ## 👽 About Me 
