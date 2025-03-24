@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vinicius+S.+Santos!;Be+Welcome!👻" />
 </h1>
 
-<h3>I'm full-stack developer from Brazil, I'm 22 years old and I'm open to new opportunities.</h3>
+<h3>I'm full-stack developer from Brazil, I'm 23 years old and I'm open to new opportunities.</h3>
 
 | <a href="https://github.com/viniciussis/My_GitHub_ReadMe_Stats"><img align="center" src="https://my-git-hub-read-me-stats.vercel.app/api?username=viniciussis&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Vinicius's github stats" /></a> | <a href="https://github.com/viniciussis/My_GitHub_ReadMe_Stats"><img align="center" src="https://my-git-hub-read-me-stats.vercel.app/api/top-langs/?username=viniciussis&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
 | :---: | :---: |
@@ -10,18 +10,18 @@
 ## 🎃 Stack 
 <div>
   <h4>Languages & Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=typescript,nest,nodejs,nextjs,vue,react,javascript,golang,java,python" />
+  <img src="https://skillicons.dev/icons?i=typescript,nest,nodejs,nextjs,vue,react,javascript,java,python,golang" />
   <h4>Database</h4>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
   <h4>Tools</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,github,postman,vercel,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,postman,vercel,docker,elasticsearch,githubactions,gitlab,grafana,graphql,linux" />
   <h4>Other Skills</h4>
   <img src="https://skillicons.dev/icons?i=vite,jest,vitest,redis,prisma,redux,scss,tailwind,styledcomponents" />
 </div><br/>
 
 ## 👽 About Me 
 <h4>🔭 Working as full-stack developer</h4>
-<h4>🌱 Studying Nest, Prisma, Vue and Quasar</h4>
+<h4>🌱 Studying API Gateway, GitOps, golang</h4>
 <h4>📫 Contact me: vinicius01012@gmail.com</h4>
 <h4>😄 Pronouns: he/him</h4>
 <h4>⚡ Fun fact: strongest nerd in the world! 😂💪</h4>
