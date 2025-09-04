@@ -10,7 +10,7 @@
 ## 🎃 Stack 
 <div>
   <h4>Languages & Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=typescript,nest,nodejs,nextjs,vue,react,javascript,java,python,golang" />
+  <img src="https://skillicons.dev/icons?i=typescript,nest,nodejs,nextjs,vue,react,javascript,angular,java,python,golang" />
   <h4>Database</h4>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
   <h4>Tools</h4>
