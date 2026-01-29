@@ -7,17 +7,26 @@
 | <a href="https://github.com/viniciussis/My_GitHub_ReadMe_Stats"><img align="center" src="https://my-git-hub-read-me-stats.vercel.app/api?username=viniciussis&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Vinicius's github stats" /></a> | <a href="https://github.com/viniciussis/My_GitHub_ReadMe_Stats"><img align="center" src="https://my-git-hub-read-me-stats.vercel.app/api/top-langs/?username=viniciussis&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
 | :---: | :---: |
 
-## 🎃 Stack 
+## 🎃 Tech Stack
 <div>
-  <h4>Languages & Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=typescript,nest,nodejs,nextjs,vue,react,javascript,angular,java,python,golang" />
-  <h4>Database</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-  <h4>Tools</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,github,postman,vercel,docker,elasticsearch,githubactions,gitlab,grafana,graphql,linux" />
-  <h4>Other Skills</h4>
-  <img src="https://skillicons.dev/icons?i=vite,jest,vitest,redis,prisma,redux,scss,tailwind,styledcomponents" />
-</div><br/>
+  <h4>Core Languages</h4>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,golang" />
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,scss,styledcomponents,vite,redux" />
+  <h4>Backend</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,django,graphql" />
+  <h4>Databases & Storage</h4>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,dynamodb,supabase,redis" />
+  <h4>Cloud & Serverless</h4>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,vercel" />
+  <h4>DevOps & Observability</h4>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,grafana,linux" />
+  <h4>Messaging & Search</h4>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,elasticsearch" />
+  <h4>Testing & Tooling</h4>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,prisma,postman,pnpm,vscode,github,bitbucket" />
+</div>
+
 
 ## 👽 About Me 
 <h4>🔭 Working as full-stack developer</h4>
