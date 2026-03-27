@@ -10,7 +10,7 @@
 ## 🎃 Tech Stack
 <div>
   <h4>Core Languages</h4>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,golang" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,golang,dart" />
   <h4>Frontend</h4>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,scss,styledcomponents,vite,redux" />
   <h4>Backend</h4>
